@@ -1,0 +1,18 @@
+$white: hsl(0, 0%, 100%);
+$black: hsl(0, 0%, 0%);
+$dark-gray: hsl(0, 0%, 55%);
+$very-dark-gray: hsl(0, 0%, 41%);
+
+body {
+  font-size: 15px;
+  font-family: 'Josefin Sans', sans-serif;
+  width: 100%;
+}
+
+$breakpoint-mobile-sm: 20rem;
+$breakpoint-mobile-md: 23.4375rem;
+$breakpoint-mobile-lg: 26.5625rem;
+$breakpoint-tablet: 48rem;
+$breakpoint-laptop: 64rem;
+$breakpoint-laptop-lg: 90rem;
+$breakpoint-4k: 160rem;

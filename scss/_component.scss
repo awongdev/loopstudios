@@ -1,0 +1,19 @@
+@mixin header {
+  font-size: 2rem;
+  line-height: 100%;
+  font-weight: 300;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+@mixin content {
+  font-family: 'Alata', sans-serif;
+  text-align: center;
+  line-height: 167%;
+  font-weight: 400;
+  opacity: 0.5;
+}
+
+.active {
+  transform: scaleX(1) !important;
+}
