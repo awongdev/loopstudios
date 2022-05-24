@@ -4,6 +4,10 @@
   font-weight: 300;
   text-align: center;
   text-transform: uppercase;
+  @media (min-width: $breakpoint-laptop) {
+    text-align: left;
+    font-size: 3rem;
+  }
 }
 
 @mixin content {
@@ -12,6 +16,9 @@
   line-height: 167%;
   font-weight: 400;
   opacity: 0.5;
+  @media (min-width: $breakpoint-laptop) {
+    text-align: left;
+  }
 }
 
 .active {
