@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/AceDub/loopstudios](https://github.com/AceDub/loopstudios)
-- Live Site URL: [https://acedub.github.io/loopstudios/](https://acedub.github.io/loopstudios/)
+- Solution URL: [https://github.com/awongdev/loopstudios](https://github.com/awongdev/loopstudios)
+- Live Site URL: [https://awongdev.github.io/loopstudios/](https://awongdev.github.io/loopstudios/)
 
 ### Built with
 
@@ -37,5 +37,5 @@ Users should be able to:
 
 ## Author
 
-- GitHub - [AceDub](https://github.com/AceDub)
+- GitHub - [awongdev](https://github.com/awongdev)
 - Frontend Mentor - [@AceDub](https://www.frontendmentor.io/profile/AceDub)
